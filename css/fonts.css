@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Pagorasanspro";
+	src:url("../fonts/Pagorasanspro/pfagorasanspro-light.ttf") format("truetype");
+	src:url("../fonts/Pagorasanspro/pfagorasanspro-reg.ttf") format("truetype");
+	src:url("../fonts/Pagorasanspro/pfagorasanspro-thin.ttf") format("truetype");
+	src:url("../fonts/Pagorasanspro/pfagorasanspro-xthin.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
